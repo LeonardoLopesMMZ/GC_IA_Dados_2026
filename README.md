@@ -1,1 +1,6 @@
-# GC_IA_Dados_2026
+<p align="center">
+  <img src="./assets/iadados.png" width="700"/>
+</p>
+
+---
+## Conquistas
