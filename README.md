@@ -23,3 +23,12 @@ Esses cursos não só vão turbinar seus conhecimentos, mas também vão render 
 
 ### Cursos Disponíveis:
 - [💡 Trilha TIC em Trilhas - Análise de dados com Python](https://ticemtrilhas.org.br/trail/2fbdc1e1-2877-4d28-ad73-db456a7e7238)  
+
+---
+## Minhas atividades
+
+| Aula | Atividade | Pasta |
+|------|-----------|-------|
+| 5 | Atividades de Excel | [Aula-5](./Aula-5) |
+| 13 | SQL Lab com Oracle (schema HR) | [aula-13-sql](./aula-13-sql) |
+| 14 | API da Casa de Sucos (Python + FastAPI) | [aula_14](./aula_14) |
